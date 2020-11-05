@@ -2,7 +2,7 @@
 name = "env-test-util"
 description = "Just a simple tool to manipulate environment variable in tests."
 repository = "https://github.com/jdrouet/env-test-util"
-version = "1.0.0"
+version = "1.0.1"
 authors = ["Jérémie Drouet <jeremie.drouet@gmail.com>"]
 edition = "2018"
 license = "MIT OR Apache-2.0"
