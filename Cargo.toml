@@ -1,5 +1,7 @@
 [package]
 name = "env-test-util"
+description = "Just a simple tool to manipulate environment variable in tests."
+repository = "https://github.com/jdrouet/env-test-util"
 version = "0.1.0"
 authors = ["Jérémie Drouet <jeremie.drouet@gmail.com>"]
 edition = "2018"
